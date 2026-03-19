@@ -1,0 +1,17 @@
+{
+  "name": "Donezo",
+  "short_name": "Donezo",
+  "description": "Personal Task & File Manager",
+  "start_url": "/dashboard",
+  "display": "standalone",
+  "background_color": "#faf9f6",
+  "theme_color": "#1a1916",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
