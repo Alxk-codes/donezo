@@ -119,16 +119,6 @@ public/
 └── sw.js          # Service worker
 ```
 
-## 📱 Deployment
-
-### Deploy to Vercel (Recommended)
-
-1. Connect GitHub repository to Vercel
-2. Add environment variables:
-   - `VITE_SUPABASE_URL`
-   - `VITE_SUPABASE_ANON_KEY`
-3. Deploy
-
 ### Other Platforms
 
 The `dist/` folder can be deployed to:
@@ -170,10 +160,6 @@ npm run build
 ## 📄 License
 
 This project is private and used for personal task management.
-
-## 👤 Author
-
-Created by [Alxk-codes](https://github.com/Alxk-codes)
 
 ---
 
